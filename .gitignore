@@ -3,3 +3,4 @@ members.xlsx
 Member.db
 __pycache__/
 *.pyc
+members_data.json
