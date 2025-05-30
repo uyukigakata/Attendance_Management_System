@@ -1,0 +1,5 @@
+members.xlsx
+.env
+Member.db
+__pycache__/
+*.pyc
